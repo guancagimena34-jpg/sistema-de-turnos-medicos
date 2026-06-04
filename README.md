@@ -1,18 +1,26 @@
-##Descripción
-El Sistema de Turnos Médicos es una aplicación diseñada para facilitar la administración de citas médicas entre pacientes, médicos y recepcionistas.
+# sistema-de-turnos-medioos
 
-##Propuesta de Valor
-Este sistema busca optimizar el proceso de reserva y administración de turnos médicos, evitando errores, pérdidas de información y demoras en la atención. Beneficia a pacientes, médicos y personal administrativo.
+## Descripción
 
-##Stack Tecnológico
-Flutter
-Dart
-Git
-GitHub
-Figma
-Draw.io
-##Integrantes
-Roxana Huallpa
-Gimena Guanca
-##Estado del Proyecto
-Versión inicial (MVP en desarrollo)
+El Sistema de Turnos Médicos es una aplicacion diseñada para facilitar la administracion de citas médicas entre pacientes, medicos y recepcionistas.
+
+## Propuesta de Valor
+
+Este sistema busca optimizar el proceso de reserva y administracion de turnos médicos, evitando erroress, perdidas de informacion y demoras en la atención.
+Beneficia a parientes, médicos y personal administrativo.
+
+## Stack Tecnologías
+
+- Flutter
+- Dart
+- Git
+- GitHub
+- Figma
+- Draw.io
+
+## Intregantes
+
+- Roxana Huallpa
+- Gimena Guanca
+
+##Estad
