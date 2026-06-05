@@ -23,4 +23,5 @@ Beneficia a parientes, médicos y personal administrativo.
 - Roxana Huallpa
 - Gimena Guanca
 
-##Estad
+- ## Estado de Proyecto
+Versión inicial(MPV en desarrollo)
