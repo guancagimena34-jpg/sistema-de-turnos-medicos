@@ -2,12 +2,12 @@
 
 Esta carpeta contiene:
 
-. User Story Map
+- User Story Map
 
-. BPMN
+- BPMN
 
-. Casos de Uso
+- Casos de Uso
 
-. Wireframes
+- Wireframes
 
-. Flujo de navegación
+- Flujo de navegación
